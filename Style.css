@@ -1,3 +1,8 @@
 body {
     font-size: smaller;
 }
+.kaikki{
+    color: red;
+    font-weight: bold;
+    font-size : 100;
+}
